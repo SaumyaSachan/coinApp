@@ -1,0 +1,11 @@
+.header {
+    /* Add styles for the header */
+    background-color: #2752E7;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+.header h1 {
+    /* Add styles for the heading */
+    margin: 0;
+}
